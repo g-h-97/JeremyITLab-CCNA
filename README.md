@@ -55,6 +55,7 @@ PacketTracer is not available on Android.
 Archlinux users can install `packettracer` package from the AUR:
 <pre>$ yay -S packettracer</pre>
 </details>
+</details>
 
 <details>
 <summary>Windows</summary>
