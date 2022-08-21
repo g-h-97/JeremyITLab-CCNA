@@ -6,6 +6,7 @@ A repository for **"Jeremy's IT Lab"** Youtube channel supplementary material fo
 
 ## Anki Flashcards
 
+<details>
 <summary>Android</summary>
 <br>
 
@@ -42,6 +43,7 @@ Download `Anki` from `https://apps.ankiweb.net/` or use Ankiweb online `https://
 PacketTracer is not available on Android.
 </details>
 
+<details>
 <summary>Linux & MacOS</summary>
 <br>
 
