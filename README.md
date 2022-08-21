@@ -6,7 +6,7 @@ A repository for **"Jeremy's IT Lab"** Youtube channel supplementary material fo
 
 ## Anki Flashcards
 
-<details open>
+<details>
 <summary>Android</summary>
 <br>
 <ul>
@@ -17,11 +17,11 @@ A repository for **"Jeremy's IT Lab"** Youtube channel supplementary material fo
 </ul>
 </details>
 
-<details open>
+<details>
 <summary>Linux & MacOS</summary>
 <br>
 Download `Anki` from `https://apps.ankiweb.net/` or use Ankiweb online `https://ankiweb.net/` straight from the web browser.
-<details open>
+<details>
 <summary>Archlinux</summary>
 <br>
 Archlinux users can install `anki` package from the AUR:
@@ -29,7 +29,7 @@ Archlinux users can install `anki` package from the AUR:
 </details>
 </details>
 
-<details open>
+<details>
 <summary>Windows</summary>
 <br>
 Download `Anki` from `https://apps.ankiweb.net/` or use Ankiweb online `https://ankiweb.net/` straight from the web browser.
@@ -37,20 +37,20 @@ Download `Anki` from `https://apps.ankiweb.net/` or use Ankiweb online `https://
 
 ## PacketTracer Labs
 
-<details open>
+<details>
 <summary>Android</summary>
 <br>
 PacketTracer is not available on Android.
 </details>
 
-<details open>
+<details>
 <summary>Linux & MacOS</summary>
 <br>
 <ul>
 <li>Create free user account https://www.netacad.com/courses/packet-tracer</li>
 <li>Download Packetracer</li>
 </ul>
-<details open>
+<details>
 <summary>Archlinux</summary>
 <br>
 Archlinux users can install `packettracer` package from the AUR:
@@ -58,7 +58,7 @@ Archlinux users can install `packettracer` package from the AUR:
 </details>
 </details>
 
-<details open>
+<details>
 <summary>Windows</summary>
 <br>
 <ul>
