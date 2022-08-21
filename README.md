@@ -4,16 +4,17 @@ A repository for **"Jeremy's IT Lab"** Youtube channel supplementary material fo
 
 # Usage
 
-
 ## Anki Flashcards
 
 <details open>
 <summary>Android</summary>
 <br>
-- Download `AnkiDroid` from the Google `Playstore`
-- Three-dots icon `⋮`
-- Import
-- Select the Flashcard to import
+<ul>
+<li>Download `AnkiDroid` from the Google `Playstore`</li>
+<li>Three-dots icon `⋮`</li>
+<li>Import</li>
+<li>Select the Flashcard to import</li>
+</ul>
 </details>
 
 <details open>
@@ -45,8 +46,10 @@ PacketTracer is not available on Android.
 <details open>
 <summary>Linux & MacOS</summary>
 <br>
-- Create free user account https://www.netacad.com/courses/packet-tracer
-- Download Packetracer
+<ul>
+<li>Create free user account https://www.netacad.com/courses/packet-tracer</li>
+<li>Download Packetracer</li>
+</ul>
 <details open>
 <summary>Archlinux</summary>
 <br>
@@ -58,8 +61,10 @@ Archlinux users can install `packettracer` package from the AUR:
 <details open>
 <summary>Windows</summary>
 <br>
-- Create free user account https://www.netacad.com/courses/packet-tracer
-- Download Packetracer
+<ul>
+<li>Create free user account https://www.netacad.com/courses/packet-tracer</li>
+<li>Download Packetracer</li>
+</ul>
 </details>
 
 # Contributions
